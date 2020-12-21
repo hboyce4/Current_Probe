@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Current_Probe_V0.2.PrjPcb]
+   Generated File[PCB - Current_Probe_V0.2-RoundHoles.TXT]
+   Generated File[PCB - Current_Probe_V0.2-SlotHoles.TXT]
+   Generated File[PCB - Current_Probe_V0.2-RectHoles.TXT]
+   Generated File[PCB - Current_Probe_V0.2.LDP]
+   Generated File[PCB - Current_Probe_V0.2.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 23:32:36 On 2020-12-20

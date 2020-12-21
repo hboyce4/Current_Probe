@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Hugo Boyce\Documents\Electronics Projects\Current probe\Altium\Current_Probe_V0.2\PCB - Current_Probe_V0.2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb - current_probe_v0.2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb - current_probe_v0.2-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=pcb - current_probe_v0.2-rectholes.txt|DrillLayers=gtl,gbl

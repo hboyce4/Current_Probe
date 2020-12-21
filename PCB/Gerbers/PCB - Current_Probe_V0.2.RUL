@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\Hugo Boyce\Documents\Electronics Projects\Current probe\Altium\Current_Probe_V0.2\PCB - Current_Probe_V0.2.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.00

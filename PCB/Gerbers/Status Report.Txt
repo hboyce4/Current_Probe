@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Current_Probe_V0.2.PrjPcb]
+   Generated File[PCB - Current_Probe_V0.2.GTO]
+   Generated File[PCB - Current_Probe_V0.2.GTP]
+   Generated File[PCB - Current_Probe_V0.2.GTS]
+   Generated File[PCB - Current_Probe_V0.2.GTL]
+   Generated File[PCB - Current_Probe_V0.2.GBL]
+   Generated File[PCB - Current_Probe_V0.2.GBS]
+   Generated File[PCB - Current_Probe_V0.2.GBP]
+   Generated File[PCB - Current_Probe_V0.2.GBO]
+   Generated File[PCB - Current_Probe_V0.2.GM1]
+   Generated File[PCB - Current_Probe_V0.2.GM2]
+   Generated File[PCB - Current_Probe_V0.2.GM4]
+   Generated File[PCB - Current_Probe_V0.2.GM13]
+   Generated File[PCB - Current_Probe_V0.2.GM15]
+   Generated File[PCB - Current_Probe_V0.2.GKO]
+   Generated File[PCB - Current_Probe_V0.2.1]
+   Generated File[PCB - Current_Probe_V0.2.GML]
+   Generated File[PCB - Current_Probe_V0.2.RUL]
+   Generated File[PCB - Current_Probe_V0.2.EXTREP]
+   Generated File[PCB - Current_Probe_V0.2.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 23:31:50 On 2020-12-20
